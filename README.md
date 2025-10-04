@@ -28,5 +28,5 @@ cd water-crisis-platform
 # Install dependencies
 npm install
 
-# Run the app
+# Run the app 
 npm start
